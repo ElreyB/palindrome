@@ -12,7 +12,7 @@ _This project takes a string or other object and tells you whether it is the sam
 
 * _Clone this repository_
 * _In your terminal type "git clone (repository url)_
-* _In command line located in the root of the directory run lib/palindrome.rb_
+* _In command line run lib/palindrome.rb_
 
 
 ## Known Bugs
@@ -21,6 +21,6 @@ _No known bugs at this time_
 
 ## Technologies Used
 
-_It's all ruby, baby._
+_Ruby_
 
 Copyright (c) 2017 **_Elrey Belmonti and Dan Nollette_**
